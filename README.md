@@ -1,5 +1,6 @@
 # Final-project
 # Linear_regression of The predicting housing prices 
+# Members of the group : Rohit V Satyendra, Serena Jacob, Vijaya Palaniappan
 Interesting Exploration:
 This data set has 81 attributes detailing the different characteristics of each house 
 
