@@ -105,3 +105,12 @@ A few of the data points are more important to consider when predicting the pric
 By using the datas provided to us, we decided to do Exploratory Data Analysis, split the training and testing data, Model Evaluation and Predictions. 
 
 Explanation of these attributes can be found: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
+
+To use the simple UI that is coded in the notebook, the input should be for
+OverallQual: any number of desired overall quality on a 1-10 scale
+GarageCars: any number of desired #car garages
+GrLivArea: any number of desired square ft for above ground living area
+Neighborhood: choose from neihborhood: 'CollgCr', 'Veenker', 'Crawfor', 'NoRidge', 'Mitchel', 'Somerst', 'NWAmes', 'OldTown', 'BrkSide', 'Sawyer', 'NridgHt', 'NAmes', 'SawyerW', 'IDOTRR', 'MeadowV', 'Edwards', 'Timber', 'Gilbert', 'StoneBr', 'ClearCr', 'NPkVill', 'Blmngtn', 'BrDale', 'SWISU', 'Blueste'
+TotRmsAbvGrd: any number of rooms above ground
+WoodDeckSF: any number of square ft for wooden deck
+Fireplaces: any number of desired fireplaces
